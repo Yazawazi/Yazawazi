@@ -2,7 +2,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=yazawazi&hide_border=true&show_icons=true" title="Yazawazi Stats" alt="Yazawazi Stats" />
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/8628e3ea-7946-4d52-93d3-7ba3b2647ab7.svg?style=flat-square)](https://wakatime.com/@8628e3ea-7946-4d52-93d3-7ba3b2647ab7) ![Python3](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-Python-green?style=flat-square&logo=javascript)
+[![wakatime](https://wakatime.com/badge/user/8628e3ea-7946-4d52-93d3-7ba3b2647ab7.svg?style=flat-square)](https://wakatime.com/@8628e3ea-7946-4d52-93d3-7ba3b2647ab7) ![Python3](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat-square&logo=javascript)
 
 Hi, I'm an amateur developer and I work mainly in Python and JavaScript. I have some rather shoddy work such as PyWazi, foreword, etc. I also have several unfinished projects stored in my private library.
 
