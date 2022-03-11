@@ -1,12 +1,12 @@
-### Hi！
-To be honest, I don't take many works, most of the repositories I wrote were deleted by me.
+<p style="text-align: center">
+    <img src="https://github-readme-stats.vercel.app/api?username=yazawazi&hide_border=true&show_icons=true" title="Yazawazi Stats" alt="Yazawazi Stats" />
+</p>
 
-Currently working on PyWazi, a repository that helps users crawl, collect, and process ExHentai, Danbooru, JavBus, and PicAcg content.You can click on [this](https://github.com/Yazawazi/pywazi) to go to the PyWazi repository. If you have some ideas, suggestions, or visions for PyWazi, feel free to ask!
+[![wakatime](https://wakatime.com/badge/user/8628e3ea-7946-4d52-93d3-7ba3b2647ab7.svg?style=flat-square)](https://wakatime.com/@8628e3ea-7946-4d52-93d3-7ba3b2647ab7) ![Python3](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-Python-green?style=flat-square&logo=javascript)
 
+Hi, I'm an amateur developer and I work mainly in Python and JavaScript. I have some rather shoddy work such as PyWazi, foreword, etc. I also have several unfinished projects stored in my private library.
 
-说实话，我拿的出手的作品不多，大部分我写的代码都被我删了。
-
-目前正在创作 PyWazi，这是一个帮助用户爬取、收集、处理 ExHentai、Danbooru、JavBus、PicAcg 的内容。你可以点[这里](https://github.com/Yazawazi/pywazi)，看看 PyWazi 的源码。如果你有一些关于 PyWazi 的想法、建议或者设想，欢迎提出！
+你好，我是一名业余开发者，我的使用 Python, JavaScript 这两门语言为主。我有一些比较拙劣的作品如 PyWazi, foreword 等，同时也有很多尚未完成的项目储存在我的私有库中。
 
 <!--
 **Yazawazi/Yazawazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
