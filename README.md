@@ -1,25 +1,6 @@
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yazawazi&hide_border=true&show_icons=true" title="Yazawazi Stats" alt="Yazawazi Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=yazawazi&hide_border=true&show_icons=true" title="Yazawazi Stats" alt="Yazawazi Stats" />
+
 
 [![wakatime](https://wakatime.com/badge/user/8628e3ea-7946-4d52-93d3-7ba3b2647ab7.svg?style=flat-square)](https://wakatime.com/@8628e3ea-7946-4d52-93d3-7ba3b2647ab7) ![Python3](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat-square&logo=javascript)
 
-Hello, I am an amateur developer. I can try to use any language (as long as it's not too much), my main languages are: `Python` (for writing automation and internet scripts) and `JavaScript` (for front and back end). Sometimes use `TypeScript` (for type annotations), `Java` (Minecraft & Grasscutter). I can communicate with you in simplified Chinese, am studying Japanese, and speak a little English.
-
-你好，我是一名业余开发者。我可以尝试去使用任何语言（只要不是很过分），我的主要语言是：`Python`（用于编写自动化和互联网脚本）和 `JavaScript`（用于前后端）。有时使用 `TypeScript`（为了类型注解），`Java`（Minecraft & Grasscutter）。我可以使用简体中文和你沟通，正在学习日语，会说点英语。
-
-
-<!--
-**Yazawazi/Yazawazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+已验顶针 鉴定为：纯纯的 Pancake Fork
