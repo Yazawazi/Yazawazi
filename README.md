@@ -5,7 +5,7 @@
 [![wakatime](https://wakatime.com/badge/user/8628e3ea-7946-4d52-93d3-7ba3b2647ab7.svg?style=flat-square)](https://wakatime.com/@8628e3ea-7946-4d52-93d3-7ba3b2647ab7) ![Python3](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat-square&logo=javascript)
 -->
 
-*That file was a ruin.  
+*That file is a ruin.  
 Flames used to dance over it.  
 It erupted with a moving and loud sound.  
 Burned in every corner.  
