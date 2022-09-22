@@ -1,3 +1,5 @@
+> 😭 I am fixing my computer and I may be inactive for a week.
+
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=yazawazi&show_icons=true" title="Yazawazi Stats" alt="Yazawazi Stats" width="49%" />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yazawazi&langs_count=5" title="Yazawazi Wakatime Stats" alt="Yazawazi Wakatime Stats" width="49%" />
