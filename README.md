@@ -1,5 +1,3 @@
-> 😭 I am fixing my computer and I may be inactive for a week.
-
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=yazawazi&show_icons=true" title="Yazawazi Stats" alt="Yazawazi Stats" width="49%" />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yazawazi&langs_count=5" title="Yazawazi Wakatime Stats" alt="Yazawazi Wakatime Stats" width="49%" />
@@ -36,15 +34,5 @@ I am Yazawazi and I am a front-end engineer. Most of my work is in private repos
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
       <img src="https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=Tails&logoColor=white" />
     </p>
-    <p>
-      <img src="https://img.shields.io/badge/Equality-000?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Humanity-000?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Constructivism-000?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Radical-000?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Internationalism-000?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Anarchist-000?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Pragmatist-000?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Piratism-000?style=for-the-badge" />
-    </p>
-	</p>
+  </p>
 </details>
