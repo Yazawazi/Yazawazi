@@ -3,11 +3,11 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yazawazi&langs_count=5" title="Yazawazi Wakatime Stats" alt="Yazawazi Wakatime Stats" width="49%" />
 </p>
 
-![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+<!-- ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) -->
 
-I am Yazawazi and I am a front-end engineer. Most of my work is in private repositories. You can communicate with me in Mandarin Chinese or English.
+Oh but...
 
-<details>
+<!-- <details>
 	<summary>Some messy badges</summary>
 	<p>
     <p>
@@ -35,4 +35,4 @@ I am Yazawazi and I am a front-end engineer. Most of my work is in private repos
       <img src="https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=Tails&logoColor=white" />
     </p>
   </p>
-</details>
+</details> -->
